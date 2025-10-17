@@ -1,0 +1,5 @@
+/Users/aaronkaipf/Downloads/SpaceInvaders_Starter_UNFERTIG_plus_Loesung/01-Starter_Unfertig/obj/Debug/net9.0/SpaceInvaders.csproj.AssemblyReference.cache
+/Users/aaronkaipf/Downloads/SpaceInvaders_Starter_UNFERTIG_plus_Loesung/01-Starter_Unfertig/obj/Debug/net9.0/SpaceInvaders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronkaipf/Downloads/SpaceInvaders_Starter_UNFERTIG_plus_Loesung/01-Starter_Unfertig/obj/Debug/net9.0/SpaceInvaders.AssemblyInfoInputs.cache
+/Users/aaronkaipf/Downloads/SpaceInvaders_Starter_UNFERTIG_plus_Loesung/01-Starter_Unfertig/obj/Debug/net9.0/SpaceInvaders.AssemblyInfo.cs
+/Users/aaronkaipf/Downloads/SpaceInvaders_Starter_UNFERTIG_plus_Loesung/01-Starter_Unfertig/obj/Debug/net9.0/SpaceInvaders.csproj.CoreCompileInputs.cache

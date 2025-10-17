@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FBAH/08l6OM=",
+  "success": true,
+  "projectFilePath": "/Users/aaronkaipf/Downloads/SpaceInvaders_Starter_UNFERTIG_plus_Loesung/01-Starter_Unfertig/SpaceInvaders.csproj",
+  "expectedPackageFiles": [
+    "/Users/aaronkaipf/.nuget/packages/raylib-cs/6.0.0/raylib-cs.6.0.0.nupkg.sha512",
+    "/Users/aaronkaipf/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
