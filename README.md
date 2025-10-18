@@ -9,9 +9,9 @@ Es enthält **`???`-Platzhalter** und **kommentierte AUFGABEN**, die Schritt fü
 
 ## 🚀 Ziel
 
-* ZIP von GitHub laden, entpacken, in VS Code öffnen
-* `AUFGABE-x` Kommentare lesen, `???` gezielt ersetzen
-* Projekt anschließend **bauen & starten**
+1. ZIP von GitHub laden, entpacken, in VS Code öffnen
+2. `AUFGABE-x` Kommentare lesen, `???` gezielt ersetzen
+3. Projekt anschließend **bauen & starten**
 
 ---
 
