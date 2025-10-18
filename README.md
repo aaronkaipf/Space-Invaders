@@ -15,14 +15,6 @@ Es enthält **`???`-Platzhalter** und **kommentierte AUFGABEN**, die Schritt fü
 
 ---
 
-## ✅ Voraussetzungen
-
-* **Visual Studio Code** – [https://code.visualstudio.com/](https://code.visualstudio.com/)
-* **C#-Erweiterung** für VS Code (z. B. *C#* oder *C# Dev Kit*)
-* **.NET SDK** (empfohlen: 9.x) – [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)
-
----
-
 ## 📥 Projekt als ZIP herunterladen
 
 1. GitHub öffnen: `https://github.com/aaronkaipf/Space-Invaders`
